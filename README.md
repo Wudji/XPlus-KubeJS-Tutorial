@@ -1,5 +1,5 @@
-# XPlus-KubeJS-Tutorial
-A Minecraft KubeJS tutorial written in Simplified Chinese (1.16.5-1.18.2)
+# XPlus-KubeJS-Tutorial-v2
+A Minecraft KubeJS tutorial written in Simplified Chinese (1.19+). Target KubeJS version: 6.x
 
 License: CC-BY-NC-SA 4.0
 
