@@ -69,3 +69,16 @@
 * [18.1 熔炼之镐](others/smelting-pickaxe.md)
 * [18.2 罐头示例(包含物品注册, 配方添加, 玩家交互和persistentData的使用)](others/can.md)
 * [19 Forge事件监听](others/forge-events.md)
+
+## 十、1.18.2的变化和介绍 <a href="#migrate-to-1182" id="migrate-to-1182"></a>
+
+* [20 1.18.2中的变化和功能](migrate-to-1182/20-1.18.2-zhong-de-bian-hua-he-gong-neng.md)
+* [20.1 ProbeJS](migrate-to-1182/20.1-probejs.md)
+* [20.2 组件（Component）的使用](migrate-to-1182/20.2-zu-jian-component-de-shi-yong.md)
+* [20.3 格式变化](migrate-to-1182/20.3-ge-shi-bian-hua/README.md)
+  * [20.3.1 世界生成](migrate-to-1182/20.3-ge-shi-bian-hua/20.3.1-shi-jie-sheng-cheng.md)
+  * [20.3.2 方块 / 物品注册](migrate-to-1182/20.3-ge-shi-bian-hua/20.3.2-fang-kuai-wu-pin-zhu-ce.md)
+  * [20.3.3 事件](migrate-to-1182/20.3-ge-shi-bian-hua/20.3.3-shi-jian.md)
+  * [20.3.4 global\[\] 的使用](migrate-to-1182/20.3-ge-shi-bian-hua/20.3.4-global-de-shi-yong.md)
+* [20.4 命令注册](migrate-to-1182/20.4-ming-ling-zhu-ce.md)
+* [20.5 反射与Java access](migrate-to-1182/20.5-fan-she-yu-java-access.md)
