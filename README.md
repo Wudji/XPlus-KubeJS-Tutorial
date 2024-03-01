@@ -7,4 +7,4 @@ MCBBS: [https://www.mcbbs.net/thread-1207772-1-1.html](https://www.mcbbs.net/thr
 
 Gitbook (1.16.5-1.18.2): [https://wudji.gitbook.io/xplus-kubejs-tutorial-v1-zh_cn/](https://wudji.gitbook.io/xplus-kubejs-tutorial-v1-zh_cn/)
 
-Gitbook (1.9+): N/A
+Gitbook (1.19+): [https://wudji.gitbook.io/xplus-kubejs-tutorial-v2-zh_cn/](https://wudji.gitbook.io/xplus-kubejs-tutorial-v2-zh_cn/)
